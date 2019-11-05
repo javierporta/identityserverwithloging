@@ -18,8 +18,9 @@ cache-control no-cache
 grant_type=password&password=password&username=alice&scope=api1&client_id=ro.client&client_secret=secret
 
 
-## Serilog
+## Seq
 
+Remeber to download it from: https://datalust.co/download
 Running in port 5341 (Localhost: http://localhost:5341)
 
 ## Txt File
